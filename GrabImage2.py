@@ -9,6 +9,7 @@ import numpy as np
 import time
 from ctypes import *
 
+
 sys.path.append("../MvImport")
 from MvCameraControl_class import *
 
